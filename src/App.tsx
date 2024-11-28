@@ -37,13 +37,13 @@ const VisNetwork = () => {
         physics: {
     enabled: true,
           barnesHut: {
-            gravitationalConstant: -80000,
-            springConstant: 0.001,
-            springLength: 50,
+            gravitationalConstant: -2000,
+            springConstant: 0.005,
+            springLength: 25,
           },
         },
-        width: "10000px",
-        height: "10000px",
+        width: "1000px",
+        height: "1000px",
          // Zoom configuration
     autoResize: true,
     //@ts-ignore
@@ -54,8 +54,9 @@ const VisNetwork = () => {
   },
   layout: {
     improvedLayout: true, // Helps the network start with a better layout
-    randomSeed: 2 // Use this if you want the initial layout to change with each load
+    randomSeed: 1 // Use this if you want the initial layout to change with each load
   },
+  
         // zoom: 1
       });
 	}, [visJsRef]);
@@ -64,7 +65,7 @@ const VisNetwork = () => {
 
 function App() {
   return (
-<div className=" min-h-screen" style={{ background: "var(--base)"}}>
+<div className="hero min-h-screen" style={{ background: "var(--base)"}}>
   <div className="hero-content text-center">
     <div className='max-w-full max-h-full'>
       <h1 className="text-5xl font-bold">Map of neighbors</h1>
