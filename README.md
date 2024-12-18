@@ -1,5 +1,3 @@
-<!-- still unfinished -->
-## FINISH TEMPLATE ##
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 <!--
@@ -36,10 +34,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Hackclub neighbors</h3>
 
   <p align="center">
-    project_description
+    Hackclub neighbors
     <br />
     <br />
     <a href="https://github.com/NeonGamerBot-QK/repo_name">View Demo</a>
@@ -85,7 +83,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `NeonGamerBot-QK`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Hackclub slack neighbors 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,7 +107,7 @@ React app install.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/NeonGamerBot-QK/saahild.com.git
+   git clone https://github.com/NeonGamerBot-QK/hackclub-neighbors.com.git
    ```
 2. Install NPM packages
    ```sh
@@ -121,10 +119,7 @@ React app install.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+its done
 
 See the [open issues](https://github.com/NeonGamerBot-QK/repo_name/issues) for a full list of proposed features (and known issues).
 
@@ -172,10 +167,7 @@ Project Link: [https://github.com/NeonGamerBot-QK/repo_name](https://github.com/
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-* []()
-* []()
-* []()
+Anyone who let me add there channel :D
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
